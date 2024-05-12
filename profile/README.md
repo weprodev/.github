@@ -1,4 +1,4 @@
-# WeProDev Company
+# WeProDev
 
 <!--
 **Here are some ideas to get you started:**
